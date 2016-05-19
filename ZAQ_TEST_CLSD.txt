@@ -19,7 +19,7 @@ include ZAQ_TEST======================ccmac.
 include ZAQ_TEST======================ccimp.
 
 class ZAQ_TEST implementation.
-*"* method's implementations
+*"* method's implehgjkhgkmentations
   include methods.
-endclass. "ZAQ_TEST implementation
+endclass. "ZAQ_TEST implhgjhgementation
 
